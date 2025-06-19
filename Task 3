@@ -1,0 +1,66 @@
+# SkillFlex Wireframes – Task 3 (UI/UX Internship)
+
+## Overview
+This repository contains low-fidelity wireframes for **SkillFlex**, a platform designed to help Indian freelancers discover and apply for short-term gig opportunities. These wireframes focus on layout, usability, and content structure — without any visual design or colors.
+
+---
+
+## Task Objective
+Design three wireframes to demonstrate the layout and user flow for core screens of the SkillFlex app:
+
+1. **Dashboard/Home**
+2. **Gig Details View**
+3. **Apply to a Gig**
+
+---
+
+## Design Decisions
+
+### 1. Dashboard/Home
+- Includes navigation tabs such as **Home**, **My Gigs**, and **Profile** for smooth user access.
+- Sections are structured for better content hierarchy (e.g., featured gigs, active gigs).
+- Simple footer and header to keep the focus on main content.
+
+### 2. Gig Details View
+- Important gig information like title, required skills, budget, and duration are placed at the top.
+- Action buttons like **Apply Now** and **Save** are clearly positioned for visibility.
+- Clean spacing and minimal distraction for a smooth reading experience.
+
+### 3. Apply to a Gig
+- Includes a field for the applicant to write why they're a good fit.
+- Option to upload a portfolio is provided.
+- A clear and prominent **Apply Now** button ensures easy submission.
+
+---
+
+## User Flow
+
+> Dashboard → Gig Details View → Apply to a Gig
+
+- The user begins on the **Dashboard** to explore available gigs.
+- They select a gig to view details.
+- They can then proceed to the **Apply to a Gig** screen to submit their application.
+
+---
+
+## Tools Used
+
+- Hand-drawn wireframes digitized into PDF format.
+- Designed in grayscale, following low-fidelity wireframe guidelines.
+
+---
+
+## Files Included
+
+- Dashboard.pdf – Layout of the SkillFlex home/dashboard screen
+- gig.pdf – Layout of a specific gig’s details
+- Apply to gig.pdf – Layout of the application interface for a gig
+
+---
+
+## Submission
+
+This work is submitted as part of the **UI/UX Internship - Task 3 for Prism Studios.
+
+---
+
