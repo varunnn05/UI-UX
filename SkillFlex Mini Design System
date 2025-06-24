@@ -1,0 +1,69 @@
+# SkillFlex Mini Design System - TASK 5
+
+This is a reusable design system built in Figma as part of my UI/UX Internship Task 5 at SkillFlex.  
+It contains structured design tokens and components based on the actual interface used in SkillFlex's dashboard and gig pages.
+
+---
+
+## What’s Included
+
+### 1. **Color Tokens**
+Defined styles for brand colors, background colors, and grayscale neutrals:
+- `color/brand/primary` – `#0B244C`
+- `color/brand/secondary` – `#2F80ED`
+- `color/neutral/gray-900` to `gray-100`
+- `color/bg/subtle`, `color/bg/default`
+
+---
+
+### 2. **Typography Tokens**
+Using **Outfit** font from Google Fonts.  
+Text styles include:
+
+| Token Name     | Font Size | Weight    | Usage            |
+|----------------|-----------|-----------|------------------|
+| `text/h1`      | 65px      | Bold      | Page Titles       |
+| `text/h2`      | 55px      | SemiBold  | Section Headers   |
+| `text/h3`      | 43px      | Medium    | Subsections       |
+| `text/body`    | 16px      | Regular   | Paragraph text    |
+| `text/caption` | 12px      | Regular   | Descriptions      |
+
+---
+
+### 3. **Component Tokens**
+
+Reusable UI components built with Figma’s Auto Layout and style tokens:
+
+- `btn/primary` – Primary action buttons
+- `nav/main` – Navigation bar used across all screens
+- (Optional) `card/gig` – Can be added later for gig listings
+
+---
+
+## Design Principles Followed
+- Consistent naming conventions (`btn/`, `text/`, `color/`)
+- Minimal and scalable style structure
+- Auto Layout used for all components
+- All styles created as Figma tokens
+
+---
+
+## View Figma File
+
+View Figma Design System (Read-Only)
+https://www.figma.com/design/K5BWWnnyeSOo5Tc77NmUe8?node-id=0-1
+
+
+---
+
+## Task Submission Info
+
+This README is part of my submission for **Task 5: Mini Design System**  
+For SkillFlex Internship - UI/UX Track  
+2025
+
+---
+
+**Created by:**  
+Varun Mehta  
+BCA Student & UI/UX Intern  
