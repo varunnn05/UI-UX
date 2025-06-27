@@ -1,0 +1,59 @@
+# Task 6: Interactive Prototyping & Microinteractions – SkillFlex UI
+
+## Prototype Link
+View Figma Prototype (View-Only)
+https://www.figma.com/design/0txwNbO1haq3qJcABRZ9HY/main-pages?node-id=212-2&t=RQTM1I8MUa2s8ZVT-1
+
+---
+
+## Objective
+This prototype showcases the key user flow and basic microinteractions for the SkillFlex platform as part of Task 6 of the UI/UX Internship. The focus is on simulating real user experience through transitions, button interactions, and visual feedback.
+
+---
+
+## User Flow Demonstrated
+- **Home → Gig Details → Apply Flow**
+- **Home → Post Gig Flow**
+
+Each screen is linked logically to reflect how users will navigate and interact with the platform.
+
+---
+
+## Interactions Included
+- Clickable buttons for navigation (e.g., “Apply,” “Post a Gig”)
+- Navigation transitions using **Smart Animate**
+- Basic form input representation
+
+---
+
+## Microinteractions Implemented
+- Smooth screen transitions between key pages
+- Button state changes on click
+- Basic feedback interactions
+
+> Note: Hover effects and loading indicators are in progress and may be updated in the next version.
+
+---
+
+## How to Preview
+1. Open the prototype link above.
+2. Start from the Home Page.
+3. Click on a gig to view details.
+4. Click “Apply” to test user flow.
+5. Alternatively, click “Post a Gig” to explore the post form flow.
+
+---
+
+## Known Limitations
+- Form inputs are static (not fully simulated).
+- Success message or loading feedback after Apply/Post is not yet implemented.
+- Hover states are not fully active but planned for future improvements.
+
+---
+
+## Tools Used
+- Figma (Prototyping Mode)
+- Smart Animate for transitions
+- Manual linking of user journey
+
+---
